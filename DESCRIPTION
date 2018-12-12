@@ -1,0 +1,10 @@
+Package: cosR
+Type: Package
+Title: Compute cosine similarity between two vectors
+Version: 1.0
+Date: 2018-12-12
+Author: Carter Allen
+Description: This package uses C++ to quickly compute the cosine similarity.
+License: GPL (>= 2)
+Imports: Rcpp (>= 0.12.19)
+LinkingTo: Rcpp
